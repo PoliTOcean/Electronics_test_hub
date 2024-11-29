@@ -10,6 +10,7 @@ When adding a test script for a specific component or PCB, please ensure the fol
 1. **Code**: The script itself, well-commented for clarity.
 
 2. **Short README**:
+
        - A KiCAD schematic of the test circuit.
        - A picture of the assembled test circuit (if possible).
        - Any explanations or details necessary to understand and reproduce the test.
